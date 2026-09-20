@@ -1,3 +1,3 @@
 # Notice
 
-I broke my promise(./I broke my promise.md)
+[I broke my promise](./I broke my promise.md)
